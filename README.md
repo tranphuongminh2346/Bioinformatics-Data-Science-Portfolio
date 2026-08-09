@@ -56,6 +56,7 @@ Each project is located in its own subfolder and is fully documented, tested, an
 | [Project 46: Redis-like LRU Persistent Database](./project_046_redis_cache_simulator/) | ![Software Engineering](https://img.shields.io/badge/Software%20Engineering-purple?style=flat-square) | Python | Redis-like LRU persistent AOF database. Simulates key-value store with LRU eviction and Append-Only File persistence. |
 | [Project 47: Acid-Base pH Titration Simulator](./project_047_ph_titration_curve/) | ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-blue?style=flat-square) ![Data Science](https://img.shields.io/badge/Data%20Science-lightblue?style=flat-square) | Python | Acid-Base pH Titration Curve Simulator. Simulates and plots pH titration curves for strong/weak acid-base reactions. |
 | [Project 48: Burrows-Wheeler DNA Indexer](./project_048_dna_kmer_index/) | ![Bioinformatics](https://img.shields.io/badge/Bioinformatics-blue?style=flat-square) ![Data Engineering](https://img.shields.io/badge/Data%20Engineering-orange?style=flat-square) | Python | Burrows-Wheeler Transform DNA Indexer. Builds BWT index of DNA sequence for efficient suffix lookup. |
+| [Project 49: NMF Document Topic Modeler](./project_049_news_topic_modeling/) | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-green?style=flat-square) ![AI & NLP](https://img.shields.io/badge/AI%20%26%20NLP-red?style=flat-square) | Python | NMF Document Topic Modeler. Discovers latent topics in news articles using Non-Negative Matrix Factorization. |
 
 ---
 
